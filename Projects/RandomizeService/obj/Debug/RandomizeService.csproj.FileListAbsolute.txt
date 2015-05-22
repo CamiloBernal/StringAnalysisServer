@@ -1,0 +1,5 @@
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\RandomizeService\bin\Debug\RandomizeService.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\RandomizeService\bin\Debug\RandomizeService.pdb
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\RandomizeService\obj\Debug\RandomizeService.csprojResolveAssemblyReference.cache
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\RandomizeService\obj\Debug\RandomizeService.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\RandomizeService\obj\Debug\RandomizeService.pdb

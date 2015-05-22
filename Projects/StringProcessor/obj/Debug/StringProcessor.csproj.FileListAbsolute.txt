@@ -1,0 +1,11 @@
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\bin\Debug\StringProcessor.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\bin\Debug\StringProcessor.pdb
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\bin\Debug\BasisObjects.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\bin\Debug\log4net.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\bin\Debug\RandomizeService.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\bin\Debug\BasisObjects.pdb
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\bin\Debug\RandomizeService.pdb
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\bin\Debug\log4net.xml
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\obj\Debug\StringProcessor.csprojResolveAssemblyReference.cache
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\obj\Debug\StringProcessor.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\StringProcessor\obj\Debug\StringProcessor.pdb

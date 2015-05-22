@@ -1,0 +1,5 @@
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\BasisObjects\bin\Debug\BasisObjects.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\BasisObjects\bin\Debug\BasisObjects.pdb
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\BasisObjects\obj\Debug\BasisObjects.csprojResolveAssemblyReference.cache
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\BasisObjects\obj\Debug\BasisObjects.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\BasisObjects\obj\Debug\BasisObjects.pdb

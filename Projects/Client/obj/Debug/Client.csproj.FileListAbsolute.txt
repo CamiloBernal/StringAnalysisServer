@@ -1,0 +1,16 @@
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Project\Client\bin\Debug\Client.exe.config
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Project\Client\bin\Debug\Client.exe
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Project\Client\bin\Debug\Client.pdb
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Project\Client\bin\Debug\RandomizeService.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Project\Client\bin\Debug\RandomizeService.pdb
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Project\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Project\Client\obj\Debug\Client.exe
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Project\Client\obj\Debug\Client.pdb
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\Client\bin\Debug\Client.exe.config
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\Client\bin\Debug\Client.exe
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\Client\bin\Debug\Client.pdb
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\Client\bin\Debug\RandomizeService.dll
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\Client\bin\Debug\RandomizeService.pdb
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\Client\obj\Debug\Client.exe
+D:\TEMP\CodeTag\SecondTest\StringAnalysisServer\Projects\Client\obj\Debug\Client.pdb
